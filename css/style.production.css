@@ -32,17 +32,6 @@ Table of Contents
 /*==========1. Imported Fonts==========*/
 @import url("https://use.typekit.net/mgp3qmv.css");
 /*==========2. CSS Variables==========*/
-:root {
-/*---Standard Colors---*/
-    
-    /*    Primary Colors    */
-    
-    /*    Accent Colors    */
-    
-    
-    
-/*---Standard Font Styling---*/
-}
 /*==========3. HTML Default Style Overwrites==========*/
 *, 
 html {
@@ -225,9 +214,7 @@ a:focus,
         -ms-transform: scale(1.2);
             transform: scale(1.2);
 }
-a:active{
-    
-}
+
 
     /*=====5.3 Forms=====*/
 label {
